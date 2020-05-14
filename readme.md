@@ -422,6 +422,8 @@
 | [Greensock](https://greensock.com/)| A JavaScript library for building high-performance animations that work in every major browser |
 | [lax.js](https://github.com/alexfoxy/laxxx)| Simple & light weight vanilla javascript plugin to create smooth & beautiful animations when you scroll! |
 | [Rellax.js](https://github.com/dixonandmoe/rellax)| A buttery smooth, super lightweight, vanilla javascript parallax library |
+| [Animejs](https://animejs.com/)|Anime.js is a lightweight JavaScript animation library with a simple, yet powerful API.
+It works with CSS properties, SVG, DOM attributes and JavaScript Objects.|
 | [three.js](https://github.com/mrdoob/three.js/)| An easy to use, lightweight, 3D library with a default WebGL renderer. |
 | [wow.js](https://wowjs.uk/)| Reveal Animations When You Scroll. |
 | [chocolat.js](http://chocolat.insipi.de/)| Free lightbox plugin. |
@@ -687,6 +689,7 @@
 | [Inspofinds](https://inspofinds.com/)| Latest design work from designers and the design community  |
 | [Design Notes](https://www.designnotes.co/)| Free online resource library for product designers |
 | [Land Book](https://land-book.com/)| Displays a large collection of websites to help find inspiration  |
+| [Okmonk](https://okmonk.com/)| OkMonk is the best curated directory of quality UI/UX design resources around the globe to follow, learn & grow. |
 | [Frontend Mentor](https://www.frontendmentor.io/)| Real-world UI Challenges using HTML, CSS and Javascript |
 | [Awwwards](https://www.awwwards.com/)| A website that rate and collects the best websites in the world in UI |
 | [Codrops](https://tympanus.net/codrops/)| A website that collects the best UI ideas and patterns and make tutorials of it|
